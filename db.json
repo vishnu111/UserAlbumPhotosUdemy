@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": "6f43",
+      "name": "Nathan Altenwerth"
+    },
+    {
+      "id": "e530",
+      "name": "Kathy Runte"
+    },
+    {
+      "id": "af43",
+      "name": "Kristin Hessel"
+    },
+    {
+      "id": "ae07",
+      "name": "Lorenzo Ondricka"
+    },
+    {
+      "id": "627d",
+      "name": "Lynda Kling"
+    },
+    {
+      "id": "0c07",
+      "name": "Hilda Hartmann"
+    },
+    {
+      "id": "af7e",
+      "name": "Ms. Tara Streich"
+    },
+    {
+      "id": "4e33",
+      "name": "Jimmie Hoppe"
+    },
+    {
+      "id": "c108",
+      "name": "Marsha Reichel"
+    },
+    {
+      "id": "e906",
+      "name": "Miss Luz Bergstrom"
+    }
+  ],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking trip",
+      "userId": "6f43"
+    },
+    {
+      "id": "4f0d",
+      "userId": "ae07",
+      "title": "Recycled Concrete Towels"
+    }
+  ],
+  "photos": []
+}
