@@ -43,14 +43,19 @@
   ],
   "albums": [
     {
-      "id": "10",
-      "title": "Hiking trip",
-      "userId": "6f43"
-    },
-    {
       "id": "4f0d",
       "userId": "ae07",
       "title": "Recycled Concrete Towels"
+    },
+    {
+      "id": "b107",
+      "userId": "e530",
+      "title": "Tasty Rubber Shirt"
+    },
+    {
+      "id": "f679",
+      "userId": "6f43",
+      "title": "Incredible Soft Chips"
     }
   ],
   "photos": []
