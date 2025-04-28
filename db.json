@@ -58,5 +58,26 @@
       "title": "Incredible Soft Chips"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "2c54",
+      "albumId": "f679",
+      "url": "https://loremflickr.com/150/150/abstract?lock=58004"
+    },
+    {
+      "id": "9218",
+      "albumId": "f679",
+      "url": "https://loremflickr.com/150/150/abstract?lock=76150"
+    },
+    {
+      "id": "c52c",
+      "albumId": "f679",
+      "url": "https://loremflickr.com/150/150/abstract?lock=64418"
+    },
+    {
+      "id": "627b",
+      "albumId": "f679",
+      "url": "https://loremflickr.com/150/150/abstract?lock=99771"
+    }
+  ]
 }
